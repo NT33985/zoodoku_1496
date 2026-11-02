@@ -1,4 +1,4 @@
-const CACHE_NAME = 'zoodoku-v5-20261031';
+const CACHE_NAME = 'zoodoku-v7-20261102-icons';
 const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable.png', './apple-touch-icon.png', './favicon.png'];
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));

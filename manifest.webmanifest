@@ -2,7 +2,7 @@
   "id": "./index.html",
   "name": "ZooDoku!!",
   "short_name": "ZooDoku!!",
-  "description": "かわいい動物で楽しむ、全200ステージのロジックパズル",
+  "description": "かわいい動物で楽しむ、全1400ステージのロジックパズル",
   "lang": "ja",
   "start_url": "./index.html",
   "scope": "./",
